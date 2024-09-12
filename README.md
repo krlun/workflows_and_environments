@@ -1,0 +1,1 @@
+This is a reposity for the exercise "Workflows and environments" in the course "BERN02, Computational Science: Reproducible Data Science and Statistical Learning".
