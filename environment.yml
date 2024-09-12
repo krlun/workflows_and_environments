@@ -1,0 +1,8 @@
+name: workflows_and_environments
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - jupyter=1.0.0
+  - numpy=1.26.4
+  - matplotlib=3.9.2
